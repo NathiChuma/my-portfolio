@@ -26,7 +26,6 @@ import About from './components/about.jsx';
 import Skills from './components/skills.jsx';
 import Contact from './components/contact.jsx';
 import BackToTop from './components/back-top.jsx';
-import Preloader from './components/preloader';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
@@ -38,7 +37,6 @@ root.render(
         <Skills />
         <Contact />
         <BackToTop />
-        <Preloader />
     </React.Fragment>);
 
 // If you want your app to work offline and load faster, you can change
