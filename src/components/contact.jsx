@@ -27,17 +27,6 @@ class Contact extends React.Component {
                 <ul>
                   <li>
                     <a
-                      href="https://www.instagram.com/nutty_chuma/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <span className="ico-circle">
-                        <i className="ion-social-instagram"></i>
-                      </span>
-                    </a>
-                  </li>
-                  <li>
-                    <a
                       href="https://github.com/NuttyChuma"
                       target="_blank"
                       rel="noopener noreferrer"
@@ -60,12 +49,34 @@ class Contact extends React.Component {
                   </li>
                   <li>
                     <a
+                      href="https://www.instagram.com/nutty_chuma/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <span className="ico-circle">
+                        <i className="ion-social-instagram"></i>
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a
                       href="https://www.facebook.com/nutty.chuma/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <span className="ico-circle">
                         <i className="ion-social-facebook"></i>
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://wa.me/27768276101"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <span className="ico-circle">
+                        <i className="ion-social-whatsapp"></i>
                       </span>
                     </a>
                   </li>
