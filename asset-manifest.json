@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.b8ce4c1d.css",
-    "main.js": "/my-portfolio/static/js/main.e1857175.js",
-    "static/media/Ghost.JPG": "/my-portfolio/static/media/Ghost.37edd1532d374533cc71.JPG",
-    "static/media/earth.jpg": "/my-portfolio/static/media/earth.a08c82a61f5bf923991e.jpg",
-    "static/media/gif2.gif": "/my-portfolio/static/media/gif2.cf6d3b0834f2ae5fa3b2.gif",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/my-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/ionicons.svg?v=2.0.0": "/my-portfolio/static/media/ionicons.b45d332f6829d6813600.svg",
-    "static/media/ionicons.ttf?v=2.0.0": "/my-portfolio/static/media/ionicons.1fa6a1e8581aaedf7344.ttf",
-    "static/media/fontawesome-webfont.eot": "/my-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/my-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/NathiWB.jpg": "/my-portfolio/static/media/NathiWB.2bad59ce32be78f60985.jpg",
-    "static/media/ionicons.eot?v=2.0.0": "/my-portfolio/static/media/ionicons.68e3a4f9a8d8c679b4ae.eot",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/my-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/my-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/ionicons.woff?v=2.0.0": "/my-portfolio/static/media/ionicons.0b4ad6170d93c4aa91ee.woff",
-    "static/media/gif.gif": "/my-portfolio/static/media/gif.42e578f39b5c8c02a6f2.gif",
-    "index.html": "/my-portfolio/index.html",
-    "main.b8ce4c1d.css.map": "/my-portfolio/static/css/main.b8ce4c1d.css.map",
-    "main.e1857175.js.map": "/my-portfolio/static/js/main.e1857175.js.map"
+    "main.css": "/static/css/main.a8297cef.css",
+    "main.js": "/static/js/main.1d12fbaa.js",
+    "static/media/Ghost.JPG": "/static/media/Ghost.37edd1532d374533cc71.JPG",
+    "static/media/earth.jpg": "/static/media/earth.a08c82a61f5bf923991e.jpg",
+    "static/media/gif2.gif": "/static/media/gif2.cf6d3b0834f2ae5fa3b2.gif",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/ionicons.svg?v=2.0.0": "/static/media/ionicons.b45d332f6829d6813600.svg",
+    "static/media/ionicons.ttf?v=2.0.0": "/static/media/ionicons.1fa6a1e8581aaedf7344.ttf",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/NathiWB.jpg": "/static/media/NathiWB.2bad59ce32be78f60985.jpg",
+    "static/media/ionicons.eot?v=2.0.0": "/static/media/ionicons.68e3a4f9a8d8c679b4ae.eot",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/ionicons.woff?v=2.0.0": "/static/media/ionicons.0b4ad6170d93c4aa91ee.woff",
+    "static/media/gif.gif": "/static/media/gif.42e578f39b5c8c02a6f2.gif",
+    "index.html": "/index.html",
+    "main.a8297cef.css.map": "/static/css/main.a8297cef.css.map",
+    "main.1d12fbaa.js.map": "/static/js/main.1d12fbaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8ce4c1d.css",
-    "static/js/main.e1857175.js"
+    "static/css/main.a8297cef.css",
+    "static/js/main.1d12fbaa.js"
   ]
 }
