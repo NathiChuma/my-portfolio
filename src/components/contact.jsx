@@ -69,7 +69,7 @@ class Contact extends React.Component {
                       </span>
                     </a>
                   </li>
-                  <li>
+                  {/*<li>
                     <a
                       href="https://wa.me/27768276101"
                       target="_blank"
@@ -79,7 +79,7 @@ class Contact extends React.Component {
                         <i className="ion-social-whatsapp"></i>
                       </span>
                     </a>
-                  </li>
+                  </li>*/}
                 </ul>
               </div>
           </div>
